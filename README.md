@@ -32,14 +32,11 @@ I'm a fast learner and dedicated team player, actively seeking internship opport
 <tr>
 <td width="50%">
 
-### 🛠️ What I'm Building
-- 🔭 **[Page Replacement Simulator](https://page-replacement-simulator.vercel.app/)**
-  *An interactive tool for understanding OS memory management*
 
 ### 📚 What I'm Learning
-- 🌱 MERN Stack Development at QAF Lab
+- 🌱 Full Stack Web Development at QAF Lab
 - 🔥 Building Responsive Web Applications
-- ☁️ Full-Stack Web Development
+
 
 </td>
 <td width="50%">
@@ -47,7 +44,6 @@ I'm a fast learner and dedicated team player, actively seeking internship opport
 ### 🎯 Goals for 2025
 - ✨ Complete Full-Stack Development Program
 - 🚀 Launch scalable web applications
-- 📖 Write technical articles on Medium
 - 🤝 Secure internship or entry-level position
 
 </td>
