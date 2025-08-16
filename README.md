@@ -43,7 +43,6 @@ I'm a fast learner and dedicated team player, actively seeking internship opport
 ### 🎯 Goals for 2025
 - ✨ Complete Full-Stack Development Program
 - 🚀 Launch scalable web applications
-- 📖 Write technical articles on Medium
 - 🤝 Secure internship or entry-level position
 
 </td>
