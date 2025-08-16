@@ -65,7 +65,7 @@ I'm a fast learner and dedicated team player, actively seeking internship opport
 
 ---
 
-## 🛠️ **Tech Arsenal**
+## 🛠️ **Tech**
 
 <div align="center">
 
