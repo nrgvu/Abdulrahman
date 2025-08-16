@@ -4,7 +4,7 @@
 
 ### 💻 Computer Engineering Student | Aspiring Full-Stack Web Developer from Iraq 🇮🇶
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFED29&h1 =true&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Computer+Engineering+Student;Full-Stack+Web+Developer;Building+Amazing+Web+Applications!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFED29&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Computer+Engineering+Student;Full-Stack+Web+Developer;Building+Amazing+Web+Applications!" alt="Typing SVG" />
 
 ---
 
