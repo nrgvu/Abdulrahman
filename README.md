@@ -20,7 +20,7 @@
 
 Final-year computer engineering student at the University of Mosul with a strong foundation in algorithms and data structures. Passionate about leveraging my technical skills to build innovative and scalable web applications.
 
-Currently participating in a comprehensive 3-month full-stack web development program at **QAF Lab** in Mosul, Iraq, gaining hands-on experience with the **MERN stack** and learning to build responsive, user-friendly, and robust web solutions.
+Currently participating in a comprehensive 3-month full-stack web development program at **QAF Lab** in Mosul, Iraq.
 
 I'm a fast learner and dedicated team player, actively seeking internship opportunities or entry-level roles as a full-stack developer.
 
